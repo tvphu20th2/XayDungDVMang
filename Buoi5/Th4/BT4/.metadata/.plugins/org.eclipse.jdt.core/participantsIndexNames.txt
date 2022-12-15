@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+E:\Th4\BT4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2629790652.index
+\foody_struts2\src\main\java
+E:\Th4\BT4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\528801857.index
+\foody_struts2\src\main\java
+E:\Th4\BT4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\91550595.index
+\foody_struts2\src\main\java

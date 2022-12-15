@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\Th4\BT4\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+814910552.index
+2568185444.index
+1695081447.index
+3998112452.index
+3477600083.index

@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+E:\Th4\BT4\.metadata\.plugins\org.eclipse.jdt.core
+1034528537.index
+62270071.index
+1792646689.index
+1496062213.index
+1865797976.index
+2130716347.index
+2661668200.index
+3760246996.index
+271343867.index
+3450120716.index
+3959137331.index
+2959195100.index
